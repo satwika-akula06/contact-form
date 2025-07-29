@@ -64,10 +64,6 @@ Just upload your files or connect your GitHub repository.
 
 ---
 
-## ✍️ License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 
