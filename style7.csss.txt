@@ -1,0 +1,42 @@
+body{
+  background-color:skyblue;
+}
+
+h2{
+text-align:center;
+}
+
+.form-container{ background-color:white;
+  border-radius:25px;
+  padding:15px;
+  width:75%;
+  text-align:center;
+  margin-bottom:20px;
+  margin:40px auto;
+  max-width:500px;
+}
+
+label{
+  margin:20px 0 8px;
+  color:black;
+  text-align:left;
+}
+
+input,
+textarea{
+  display:block;
+  margin:0 auto 20px;
+  width:70%;
+  padding:8px;
+  font-size:16px;
+  margin-bottom:80px;
+  text-align:center;
+}
+
+button{ background-color:lightgreen;
+  font-size:15px;
+}
+button:hover{
+  background-color:pink;
+}
+
